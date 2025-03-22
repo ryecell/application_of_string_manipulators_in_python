@@ -2,4 +2,4 @@
 fullname = input("Enter your full name(with spaces in front): ")
 
 #format input using lstrip to remove spaces
-fullname = fullname.lstrip()
+print("You're fullname is:", fullname.lstrip())
